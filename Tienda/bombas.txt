@@ -1,0 +1,91 @@
+Centrifugas,bombas
+Sumergibles,bombas
+Multietapas,bombas
+Trituradoras,bombas
+Grado alimenticio,bombas
+Carcaza Bipartida,bombas
+Traga solidos,bombas
+Contra Incendio,bombas
+De cavidad progresiva,bombas
+Acoplamiento directo,bombas
+Turbina regenerativa,bombas
+Vertical de flecha hueca,bombas
+Desplazamiento positivo o negativo,bombas
+Solares,bombas
+De pozo profundo,bombas
+De diafragma,bombas
+Motobombas,bombas
+Para manejo de viscosos,bombas
+Bombas para químicos ácidos y corrosivos,bombas
+Bombas manuales,bombas
+Bombas para tambo,bombas
+Bombas para recirculación de agua caliente,bombas
+Bombas de alta temperatura,bombas
+Sistemas armados,bombas
+Suavizadores,filtracion
+Osmosis inversa,filtracion
+Filtros de piscina,filtracion
+Filtros multimedia,filtracion
+Filtros de carbón activado,filtracion
+Cartuchos,filtracion
+Porta filtros,filtracion
+Filtros plisados,filtracion
+Desarenadores,filtracion
+Filtro de lecho profundo,filtracion
+Filtro tipo bolsa,filtracion
+Membranas,filtracion
+Filtro para tratamiento industrial,filtracion
+Químicos y filtrantes,filtracion
+Bombas,piscina
+Filtros,piscina
+Iluminación,piscina
+Filtración,piscina
+Accesorios,piscina
+Químicos,piscina
+Pisos y Azulejos,piscina
+Desnatadores,piscina
+Dren de fondo,piscina
+Skimmers,piscina
+Valvuleria,piscina
+Recubrimientos,piscina
+Calderas,piscina
+Bombas de calor,piscina
+Equipos fotovoltaicos,piscina
+Timers,piscina
+Tubería aérea y subterránea,incendios
+Conexiones de hierro dúctil,incendios
+Conexiones ranuradas,incendios
+Valvuleria,incendios
+Raisers,incendios
+Trims,incendios
+Rociadores,incendios
+Gabinetes y Mangueras,incendios
+Monitores,incendios
+Sistemas de espuma,incendios
+Soportaría antisísmica,incendios
+Sistemas de Hidrogeno,incendios
+Tanques atornillables,incendios
+Equipos armados,incendios
+Sistemas refrigerantes,incendios
+Hidrantes de pared,incendios
+Tomas siamesas,incendios
+Tinacos,almacenamiento
+Cisternas,almacenamiento
+Atornillables,almacenamiento
+Bebederos,almacenamiento
+Tanques industriales,almacenamiento
+Nodrizas,almacenamiento
+Tolvas,almacenamiento
+Biodigestores,tratamiento
+Caja de registro de lodos,tratamiento
+Reactores,tratamiento
+Bombas de dosificación,tratamiento
+Químicos,tratamiento
+Filtros prensa,tratamiento
+Filtros rotativos,tratamiento
+Generadores de ozono,tratamiento
+Bombas de vacío,tratamiento
+Eductores,tratamiento
+Difusores de burbuja,tratamiento
+Aireadores,tratamiento
+Químicos,tratamiento

@@ -1,0 +1,37 @@
+Serfilco - equipos de bombeo y sistemas de filtración para químicos - ./assets/serfilco.png
+George Fisher - instrumentación y tuberías industriales - ./assets/GF.png
+Franklin Electric - bombeo agua potable, residencial, comercial e industrial - ./assets/franklin.png
+Little Giant - bombeo sumergible, fuentes y desagües -  ./assets/littlegiant.png
+Rotoplas - tanques industriales, tinacos y cisternas - ./assets/rotoplas.png
+Elbi of America - válvulas multipropósitos, tanques de expansión, tanques de presión, separadores de aire, difusores de succión - ./assets/elbiamerica.png 
+Rosedale Products - sistemas de filtración tipo bolsa, tipo cartucho, tipo canasta y desarenadores verticales centrífugos de acero al carbón e inoxidable - ./assets/rosedale.png 
+Nassar - controles de bombeo automático para agua potable, sistemas contra incendio y velocidad variable (Mexicana) - ./assets/nassar.png
+Anvil - sistemas contra incendio - ./assets/anvil.png
+Zurn - coladeras, trampas de grasa, preventores contraflujo - ./assets/zurn.png
+SJE Rhombus - controles de bombeo automático para agua potable, velocidad variable y telemetría (Americana) - ./assets/rhombus.png
+Tyco - valvuleria, rociadores y equipos contra incendio municipales - ./assets/tyco.png
+Vamex - válvulas de diafragma, aplicaciones municipales e industriales - ./assets/vamex.png
+Villarreal División Equipos - bombeo comercial, residencial y sistemas armados multibombas - ./assets/vde.png 
+U.S Seal - sellos mecánicos de tipo uso rudo para sistemas de bombeo - ./assets/seal.jpg
+VGS (de U.S Seal) - sellos mecánicos económicos para sistemas de bombeo - ./assets/vgs.png
+CST - tanques destornillables para agua potable, aguas residuales, PTAR y sistemas contra incendio - ./assets/cst.png 
+Q Pumps - bombeo industrial para procesos sanitarios y farmacéutico - ./assets/qpumps.png
+Wilo - bombeo industrial, agrícola, comercial, manejo de aguas residuales, recirculación de agua caliente y HVAC - ./assets/wilo.png
+Scot Pump - sistemas de bombeo horizontal para el área de HVAC - ./assets/scot.png
+American Marsh - bombas pozo profundo con motor vertical flecha hueca y bombas con motores sumergibles - ./assets/amp.png
+Weil - bombeo sumergible, cárcamo húmedo, aguas negras, lodos y controles automáticos - ./assets/weil.png 
+Industrias Mass - calentadores, filtración, tanques de agua caliente - ./assets/mass.png
+Strataflo - válvulas tipo check y válvulas de pie de bronce y acero inoxidable - ./assets/strata.png
+Barmesa - bombeo industrial, comercial, municipal y agrícola - ./assets/barmesa.png
+Ari Armaturen - trampas de vapor, válvulas de alta temperatura, válvulas de control, aislamiento y seguridad - ./assets/arma.png
+Viking - sistemas contra incendio - ./assets/viking.png
+Instrutek - manómetros, termómetros, medidores de agua, transductores de presión mecánico y digital - ./assets/instrutek.png
+Argco - accesorios e instrumentación contra incendio - ./assets/argco.png
+IMSA - torres de enfriamiento tipo circuito cerrado, tipo abierto, condensadores y accesorios. - ./assets/IM.png
+Jefferson - electroválvulas solenoides, para uso general, refrigeración, gas, controles de nivel, combustión e hidráulica neumática. - ./assets/jefferson.png
+Liberty Pump - bombas sumergibles, aguas residuales - ./assets/LP.png
+Fleck - válvulas electromecánicas para filtros y suavizadores - ./assets/fleck.png
+DAB - bombeo comercial y residencial con ahorro de energía - ./assets/dab.png
+Lorentz - paneles y bombeo solar - ./assets/lorentz.png
+Pedrollo - bombeo residencial, comercial. Multietapas, sumergible para pozos, aguas residuales y purificación - ./assets/pedrollo.png
+Berkeley - bombas centrifugas, horizontales para uso industrial, municipal y sistemas de riego - ./assets/berkeley.png
